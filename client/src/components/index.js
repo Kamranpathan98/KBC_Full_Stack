@@ -1,6 +1,7 @@
-export {default as Header} from "./Header"
-export {default as MainCointainer} from "./MainContainer"
-export {default as CreateCointainer} from "./CreateContainer"
-export {default as HomeContainer} from "./HomeContainer"
-export {default as Loader} from "./Loader"
-export {default as RowContainer} from "./RowContainer"
+export { default as Header } from "./Header";
+export { default as MainCointainer } from "./MainContainer";
+export { default as CreateCointainer } from "./CreateContainer";
+export { default as HomeContainer } from "./HomeContainer";
+export { default as Loader } from "./Loader";
+export { default as RowContainer } from "./RowContainer";
+export { default as Login } from "./Login";
